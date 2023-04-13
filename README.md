@@ -1,7 +1,7 @@
 # Crowdfunding-ETL
 Module 8
 # Extract, Transform, Load... ETL!
-Performing ETL skills on a large dataset. I used Puthon to extract and trandform and SQL was used to load and query.
+A classwork example performing ETL skills on a large dataset. Python was used to extract and transform, SQL is used to load and query the data.
 # Overview
 Independent Funding is a crowdfunding platform for funding independent projects or ventures, and they have been growing! Since it's gorwth it now needs to move all their accessible data from one large Excel file onto a PostgreSQL database. Now the analytics team will be able to perform analysis and create reports for company stakeholders as well as individuals who donate to projects.
 
